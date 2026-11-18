@@ -1,0 +1,3 @@
+[submodule "Hands/NativeWebSocket"]
+	path = Hands/NativeWebSocket
+	url = https://github.com/endel/NativeWebSocket.git
